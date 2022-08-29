@@ -1,0 +1,44 @@
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+
+.travel_mainDiv
+{
+    border:1px solid aliceblue;
+}
+
+.travel_mainDiv h5,.travel_mainDiv p
+{
+    margin-left:20px;
+}
+
+.life_mainDiv
+{
+    border:1px solid aliceblue;
+}
+
+.life_mainDiv h5,.life_mainDiv p
+{
+    margin-left:20px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+
+.movie_head i
+{
+    float:right;
+}
+
+.movie_text span
+{
+    color: orange;
+}
